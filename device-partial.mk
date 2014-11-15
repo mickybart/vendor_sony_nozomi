@@ -210,14 +210,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/sony/nozomi/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/sony/nozomi/proprietary/lib/liboem_rapi_fusion.so:system/lib/liboem_rapi_fusion.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxQcelp13Dec.so:system/lib/libOmxQcelp13Dec.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
-    vendor/sony/nozomi/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/sony/nozomi/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/sony/nozomi/proprietary/lib/libprotobuf-c.so:system/lib/libprotobuf-c.so \
     vendor/sony/nozomi/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
