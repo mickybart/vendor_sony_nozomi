@@ -140,7 +140,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/sony/nozomi/proprietary/lib/hw/camera.msm8660.so:system/lib/hw/camera.msm8660.so \
     vendor/sony/nozomi/proprietary/lib/hw/gps.msm8660.so:system/lib/hw/gps.msm8660.so \
-    vendor/sony/nozomi/proprietary/lib/hw/nfc.msm8660.so:system/lib/hw/nfc.msm8660.so \
     vendor/sony/nozomi/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
     vendor/sony/nozomi/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/nozomi/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
@@ -205,7 +204,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
     vendor/sony/nozomi/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/sony/nozomi/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-    vendor/sony/nozomi/proprietary/lib/libnfc.so:system/lib/libnfc.so \
     vendor/sony/nozomi/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/sony/nozomi/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/sony/nozomi/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
