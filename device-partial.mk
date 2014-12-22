@@ -75,7 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/semc/chargemon/data/non-charging_animation_05.png:system/semc/chargemon/data/non-charging_animation_05.png \
     vendor/sony/nozomi/proprietary/semc/chargemon/data/non-charging_animation_06.png:system/semc/chargemon/data/non-charging_animation_06.png \
     vendor/sony/nozomi/proprietary/semc/chargemon/data/non-charging_animation_07.png:system/semc/chargemon/data/non-charging_animation_07.png \
-    vendor/sony/nozomi/proprietary/etc/fast-dormancy:system/etc/fast-dormancy \
+    vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_int_conf_fusion:system/etc/fast-dormancy/fd_int_conf_fusion \
     vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_int_conf.txt:system/etc/fast-dormancy/fd_int_conf.txt \
     vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_ext_conf.txt:system/etc/fast-dormancy/fd_ext_conf.txt \
     vendor/sony/nozomi/proprietary/etc/fast-dormancy/fd_custm_conf.txt:system/etc/fast-dormancy/fd_custm_conf.txt \
