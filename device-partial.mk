@@ -231,6 +231,15 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
     vendor/sony/nozomi/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so
 
+# sensors
+PRODUCT_COPY_FILES += \
+    vendor/sony/nozomi/proprietary/lib/libals.so:system/lib/libals.so \
+    vendor/sony/nozomi/proprietary/lib/libMPU3050.so:system/lib/libMPU3050.so \
+    vendor/sony/nozomi/proprietary/lib/libmpl.so:system/lib/libmpl.so \
+    vendor/sony/nozomi/proprietary/lib/libmllite.so:system/lib/libmllite.so \
+    vendor/sony/nozomi/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
+    vendor/sony/nozomi/proprietary/lib/libsensors_akm8972.so:system/lib/libsensors_akm8972.so
+
 # qcom gpu blob(s) necessary for nozomi hardware from HTC One Google Play Edition 
 PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
