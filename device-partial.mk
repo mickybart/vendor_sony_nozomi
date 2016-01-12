@@ -153,9 +153,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libcald_server.so:system/lib/libcald_server.so \
     vendor/sony/nozomi/proprietary/lib/libcald_util.so:system/lib/libcald_util.so \
     vendor/sony/nozomi/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
-    vendor/sony/nozomi/proprietary/lib/libcameraextensionclient.so:system/lib/libcameraextensionclient.so \
-    vendor/sony/nozomi/proprietary/lib/libcameraextensionjni.so:system/lib/libcameraextensionjni.so \
-    vendor/sony/nozomi/proprietary/lib/libcameraextensionservice.so:system/lib/libcameraextensionservice.so \
     vendor/sony/nozomi/proprietary/lib/libcameralight.so:system/lib/libcameralight.so \
     vendor/sony/nozomi/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/sony/nozomi/proprietary/lib/libdiag.so:system/lib/libdiag.so \
@@ -173,8 +170,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libface.so:system/lib/libface.so \
     vendor/sony/nozomi/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/sony/nozomi/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-    vendor/sony/nozomi/proprietary/lib/libgesture_client.so:system/lib/libgesture_client.so \
-    vendor/sony/nozomi/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
     vendor/sony/nozomi/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/sony/nozomi/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/nozomi/proprietary/lib/libidl.so:system/lib/libidl.so \
