@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_STEM := nozomi/BoardConfigPartial.mk
+LOCAL_STEM := hikari/BoardConfigPartial.mk
 
 -include vendor/sony/$(LOCAL_STEM)
 -include vendor/qcom/$(LOCAL_STEM)

@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_STEM := nozomi/device-partial.mk
+LOCAL_STEM := hikari/device-partial.mk
 
 $(call inherit-product-if-exists, vendor/sony/$(LOCAL_STEM))
 $(call inherit-product-if-exists, vendor/qcom/$(LOCAL_STEM))
