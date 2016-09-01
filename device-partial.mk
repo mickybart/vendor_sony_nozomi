@@ -224,7 +224,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hikari/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/hikari/proprietary/lib/libta_rmt_clnt.so:system/lib/libta_rmt_clnt.so \
     vendor/sony/hikari/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
-    vendor/sony/hikari/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so
+    vendor/sony/hikari/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so \
+    vendor/sony/hikari/proprietary/lib/libtime_remote_atom.so:system/lib/libtime_remote_atom.so
 
 # sensors
 PRODUCT_COPY_FILES += \
