@@ -224,7 +224,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libta.so:system/lib/libta.so \
     vendor/sony/nozomi/proprietary/lib/libta_rmt_clnt.so:system/lib/libta_rmt_clnt.so \
     vendor/sony/nozomi/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
-    vendor/sony/nozomi/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so
+    vendor/sony/nozomi/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so \
+    vendor/sony/nozomi/proprietary/lib/libtime_remote_atom.so:system/lib/libtime_remote_atom.so
 
 # sensors
 PRODUCT_COPY_FILES += \
