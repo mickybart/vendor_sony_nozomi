@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/bin/qrngd:system/bin/qrngd \
     vendor/sony/nozomi/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/nozomi/proprietary/bin/radish:system/bin/radish \
-    vendor/sony/nozomi/proprietary/bin/rild:system/bin/rild \
     vendor/sony/nozomi/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/nozomi/proprietary/bin/sapd:system/bin/sapd \
     vendor/sony/nozomi/proprietary/bin/secchand:system/bin/secchand \
@@ -215,7 +214,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libqmi_csvt_srvc.so:system/lib/libqmi_csvt_srvc.so \
     vendor/sony/nozomi/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/sony/nozomi/proprietary/lib/libqueue.so:system/lib/libqueue.so \
-    vendor/sony/nozomi/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/sony/nozomi/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/sony/nozomi/proprietary/lib/librpc.so:system/lib/librpc.so \
     vendor/sony/nozomi/proprietary/lib/libSHIMDivxDrm.so:system/lib/libSHIMDivxDrm.so \
