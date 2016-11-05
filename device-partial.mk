@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hikari/proprietary/bin/qrngd:system/bin/qrngd \
     vendor/sony/hikari/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/hikari/proprietary/bin/radish:system/bin/radish \
-    vendor/sony/hikari/proprietary/bin/rild:system/bin/rild \
     vendor/sony/hikari/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/hikari/proprietary/bin/sapd:system/bin/sapd \
     vendor/sony/hikari/proprietary/bin/secchand:system/bin/secchand \
@@ -215,7 +214,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/hikari/proprietary/lib/libqmi_csvt_srvc.so:system/lib/libqmi_csvt_srvc.so \
     vendor/sony/hikari/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/sony/hikari/proprietary/lib/libqueue.so:system/lib/libqueue.so \
-    vendor/sony/hikari/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/sony/hikari/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/sony/hikari/proprietary/lib/librpc.so:system/lib/librpc.so \
     vendor/sony/hikari/proprietary/lib/libSHIMDivxDrm.so:system/lib/libSHIMDivxDrm.so \
