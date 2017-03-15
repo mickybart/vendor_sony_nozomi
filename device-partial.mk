@@ -42,7 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/sony/nozomi/proprietary/bin/qosmgr:system/bin/qosmgr \
     vendor/sony/nozomi/proprietary/bin/qrngd:system/bin/qrngd \
-    vendor/sony/nozomi/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/nozomi/proprietary/bin/radish:system/bin/radish \
     vendor/sony/nozomi/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/sony/nozomi/proprietary/bin/sapd:system/bin/sapd \
@@ -133,10 +132,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/vendor/camera/STW01BM0.dat:system/vendor/camera/STW01BM0.dat \
     vendor/sony/nozomi/proprietary/vendor/firmware/libpn544_fw_c2.so:system/vendor/firmware/libpn544_fw_c2.so \
     vendor/sony/nozomi/proprietary/vendor/firmware/libpn544_fw_c3.so:system/vendor/firmware/libpn544_fw_c3.so \
-    vendor/sony/nozomi/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-    vendor/sony/nozomi/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
-    vendor/sony/nozomi/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/sony/nozomi/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/sony/nozomi/proprietary/lib/hw/camera.msm8660.so:system/lib/hw/camera.msm8660.so \
     vendor/sony/nozomi/proprietary/lib/hw/gps.msm8660.so:system/lib/hw/gps.msm8660.so \
     vendor/sony/nozomi/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
@@ -156,10 +151,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
     vendor/sony/nozomi/proprietary/lib/libdiag.so:system/lib/libdiag.so \
     vendor/sony/nozomi/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
-    vendor/sony/nozomi/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/sony/nozomi/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
-    vendor/sony/nozomi/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
-    vendor/sony/nozomi/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
     vendor/sony/nozomi/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/sony/nozomi/proprietary/lib/libdsprofile.so:system/lib/libdsprofile.so \
     vendor/sony/nozomi/proprietary/lib/libdsm.so:system/lib/libdsm.so \
@@ -223,7 +214,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nozomi/proprietary/lib/libta_rmt_clnt.so:system/lib/libta_rmt_clnt.so \
     vendor/sony/nozomi/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so \
     vendor/sony/nozomi/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so \
-    vendor/sony/nozomi/proprietary/lib/libtime_remote_atom.so:system/lib/libtime_remote_atom.so
+    vendor/sony/nozomi/proprietary/lib/libtime_remote_atom.so:system/lib/libtime_remote_atom.so \
+    vendor/sony/nozomi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
 
 # sensors
 PRODUCT_COPY_FILES += \
